@@ -1,0 +1,10 @@
+Clara Salazar 4106.37
+Cecília Conceição 10801.57
+Valentina Ilha 6091.65
+Heitor Gentil 5606.17
+Eduardo Flores 7951.08
+Davi Albuquerque 12793.34
+Laura Dantas 13848.96
+Isabelly Apolinário 14857.55
+Emanuel Bonfim 8942.01
+Heloísa Brito 4902.00

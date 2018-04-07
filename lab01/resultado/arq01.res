@@ -1,0 +1,10 @@
+Miguel Baptista 9040.06
+Antônio Resende 10354.61
+Lavínia Moura 8849.77
+Daniel Muniz 9003.27
+João Hilário 4057.72
+Clara Zanette 10013.05
+Lívia Beira-Mar 5489.41
+Rodrigo Gentil 11175.95
+Gustavo Ramires 7643.33
+Arthur Barreto 14464.27
