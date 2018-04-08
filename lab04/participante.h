@@ -1,9 +1,19 @@
+#ifndef PARTICIPANTE_H
+#define PARTICIPANTE_H
+#include <stdlib.h>
+#endif
+
+/* estrutura de um jogador, contendo respectivamente: um numero identificador,
+sua habilidade atual e sua habilidade máxima */
 typedef struct{
-	int i, h_current, h_max;
+	int id, h_current, h_max;
 } Player;
 
-Player * start_player(int i, int h);
+/* inicia um jogador com identificador id e com habilidade atual e máxima h*/
+Player * start_player(int id, int h);
 
-Player * modify_player(Player * p, int h);
+/* modifica a habilidade atual de um jogado para h */
+void modify_player(Player * p, int h);
 
+/* deleta o jogador p*/
 void delete_player(Player * p);
