@@ -1,0 +1,747 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"destroy_stack"
+			],
+			[
+				"chec",
+				"check_top"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"che",
+				"check_streets"
+			],
+			[
+				"check",
+				"check_streets"
+			],
+			[
+				"crea",
+				"create_queue"
+			],
+			[
+				"pos",
+				"possible_flag"
+			],
+			[
+				"po",
+				"possible_flag"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"n",
+				"n_alegorias"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"ub",
+				"ub_q"
+			],
+			[
+				"lb_",
+				"lb_n_match"
+			],
+			[
+				"lb",
+				"lb_n_match"
+			],
+			[
+				"tam",
+				"tam_final"
+			],
+			[
+				"en",
+				"end_post"
+			],
+			[
+				"end",
+				"end_ini"
+			],
+			[
+				"ta",
+				"tamanho"
+			],
+			[
+				"tam_",
+				"tam_final"
+			],
+			[
+				"bus",
+				"busca_end_maior"
+			],
+			[
+				"busc",
+				"busca_tam_maior_igual"
+			],
+			[
+				"bu",
+				"busca_tam_maior"
+			],
+			[
+				"cri",
+				"cria_lista_vazia"
+			],
+			[
+				"busca",
+				"busca_linear"
+			],
+			[
+				"p",
+				"p_vetor"
+			],
+			[
+				"AU",
+				"AUMENTO_GRANDE"
+			],
+			[
+				"mul",
+				"multiplicador_aumento"
+			],
+			[
+				"dis",
+				"disciplina_professor"
+			],
+			[
+				"Max",
+				"MAX_ALUNOS"
+			],
+			[
+				"Ma",
+				"MAX_PROFESSOR"
+			],
+			[
+				"instru",
+				"instrumento"
+			],
+			[
+				"inten",
+				"intensidade"
+			],
+			[
+				"instr",
+				"instrument"
+			],
+			[
+				"inste",
+				"instante"
+			],
+			[
+				"ins",
+				"instante"
+			],
+			[
+				"inte",
+				"instensity"
+			],
+			[
+				"reg1",
+				"reg1_num"
+			],
+			[
+				"reg_",
+				"reg1_num"
+			],
+			[
+				"reg2",
+				"reg2_num"
+			],
+			[
+				"re1",
+				"reg1_num"
+			],
+			[
+				"mne",
+				"MNEME_SIZE"
+			],
+			[
+				"numero",
+				"numero_coment"
+			],
+			[
+				"in",
+				"instrucoes"
+			],
+			[
+				"rot",
+				"rotation_y"
+			],
+			[
+				"ch",
+				"check_print"
+			],
+			[
+				"s",
+				"scan_svg"
+			],
+			[
+				"do",
+				"do_operations"
+			],
+			[
+				"s_",
+				"s_in"
+			],
+			[
+				"MA",
+				"MAX_STYLE"
+			],
+			[
+				"M",
+				"MAX_STYLE"
+			],
+			[
+				"tota",
+				"total"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"rel",
+				"relOcorr"
+			],
+			[
+				"pla",
+				"palavrasBusca"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"tot",
+				"totalPalavrasFrase"
+			],
+			[
+				"cont",
+				"contaPalavra"
+			],
+			[
+				"pl",
+				"palavrasFrase"
+			],
+			[
+				"con",
+				"contaPalavra"
+			],
+			[
+				"pr",
+				"proxima_palavra"
+			],
+			[
+				"total",
+				"totalPalavrasDif"
+			],
+			[
+				"pala",
+				"palavras"
+			],
+			[
+				"oc",
+				"ocorrenciasMarc"
+			],
+			[
+				"na",
+				"nPalavras"
+			],
+			[
+				"veri",
+				"verifica_marcador"
+			],
+			[
+				"nPa",
+				"nPalavrasBusca"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"check_",
+				"check_end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pilha.h",
+			"settings":
+			{
+				"buffer_size": 632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pilha.c",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab05.c",
+			"settings":
+			{
+				"buffer_size": 5459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 217.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab05/pilha.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab04/res.teste",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab04/fila.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab04/participante.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab04/participante.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab04/lab04",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03/lab03.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03/memoria.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03.teste/lab03.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03.teste/memoria.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03.teste/memoria.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03.teste/lista.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03.teste/lista.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03/lista.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab03/lista.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/vetor.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/vetor.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/ordem.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/lab02.c",
+		"/run/media/stein/861CF39E1CF38787/Documents/panoramixPot.txt",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/in/arq05.in",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab02/ordem.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/professor.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/aluno.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/professor.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/aluno.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/lab01.h",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/main.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/lab01.c",
+		"/home/stein/Documents/Estudos/2018sem1/mc202/lab/lab01/instancias_abertas/arq01.in",
+		"/home/stein/Documents/Estudos/estatr/Proposta ifood/ifoodProposta2.log",
+		"/home/stein/Documents/Estudos/estatr/ifood/ModeloRelatorio.log",
+		"/home/stein/Documents/Estudos/estatr/RelatorioProjetoTrainee-20180105T134645Z-001/RelatorioProjetoTrainee/conversao.csv",
+		"/home/stein/Documents/Estudos/estatr/RelatorioProjetoTrainee-20180105T134645Z-001/RelatorioProjetoTrainee/Finalizados.csv",
+		"/home/stein/Documents/Estudos/estatr/Realocação de Áreas/Realocação de Áreas.csv",
+		"/home/stein/Documents/Estudos/estatr/Processos e padrões de projetos/Projetos.log",
+		"/home/stein/Downloads/lecture-42-challenge.txt",
+		"/home/stein/Documents/Estudos/estatr/RelatorioProjetoTrainee-20180105T134645Z-001/RelatorioProjetoTrainee/Não Fechados.csv",
+		"/home/stein/lecture-30-challenge.txt",
+		"/run/media/stein/861CF39E1CF38787/Documents/notebooktype.txt",
+		"/home/stein/Program-Flow-Control-in-Python-Challenge-If-Then-Else-Source-code/ifchallenge.py",
+		"/run/media/stein/861CF39E1CF38787/Documents/estudos/estatjr/Projetos/2017/situação.txt",
+		"/home/stein/Documents/Estudos/Linguagens/py/exchange-chart.py",
+		"/home/stein/Documents/Estudos/Linguagens/py/charm/helo",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/p2/study.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab09/lab09.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab12/lab12.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/lab09.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/lab10.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab11/lab11.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab12/lab.12",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/outros/4fechadoserrados.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/lab10.h",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/gcc",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/lab10",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/4testesfechadoserrados/naodacerto.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/duzzi/lab09.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/4testesfechadoserrados/lab10.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab10/teste/entrada.c",
+		"/home/stein/Documents/I.Systems/nova extracao/Painel_CCP_Malha_de_temperatura_minuto.csv",
+		"/home/stein/Documents/I.Systems/nova extracao/Painel_CCP_Malha_de_AC_expansao_minuto.csv",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab07/lab07.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq02res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq10in.svg",
+		"/run/media/stein/861CF39E1CF38787/Documents/estudos/2011sem2/eng soft/InjontimeFinal/injontime.cpp",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab09/lab09.h",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab07/lab07.h",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/victor/labALTERA_SAPORRA.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/lab08.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab06/lab06.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab07/lab06.c",
+		"/home/stein/Documents/Estudos/2017sem2/btc/matricula.txt",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/lab08.h",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/exmpl/exemplo.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/exemplo.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq01res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq02in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq03in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq03res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq04in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq04res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq05in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq05res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq06in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq06res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq07in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq07res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq08in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq08res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq09in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq09res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq10res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq11in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq11res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq12in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq12res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq13in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq13res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq14in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq14res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq15in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq15res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq16in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq16res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq17in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq17res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq18in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq18res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq19in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq19res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq20in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq20res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq21in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq21res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq22in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq22res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq23in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq23res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq24in.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab08/teste/arq24res.svg",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab07/lab07alt.c",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab05bonus/lab05Bonus.c",
+		"/run/media/stein/861CF39E1CF38787/Documents/estudos/2017sem2/lista.txt",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab06/arq02.pbm",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/lab06/arq01.pbm",
+		"/home/stein/Documents/Estudos/2017sem2/mc102/victor/lab05BonusVic.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pró",
+			"pro",
+			"pop",
+			"Node",
+			"corre",
+			"queue",
+			"queue(",
+			"texto",
+			"print",
+			"pilha",
+			"56558",
+			"56546",
+			"Partida",
+			"partida 40399",
+			"scanf",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"õ",
+			"ã",
+			"ç",
+			".",
+			"bubblesort_instant",
+			"*",
+			"qq",
+			"nota",
+			"instrumento",
+			"(event + 1)",
+			" ",
+			"str",
+			"strc",
+			"operation",
+			"n",
+			"check_end",
+			"to_check",
+			"check_earth",
+			"last_to_check"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Alegoria_node",
+			"printf",
+			"u",
+			"o",
+			"i",
+			"e",
+			"a",
+			"o",
+			"a",
+			"c",
+			"->",
+			"sort",
+			"",
+			"intensidade",
+			"nota",
+			"(event + i + 1)",
+			";",
+			"end",
+			"check",
+			"earth",
+			"check",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pilha.h",
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pilha.c",
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "lab05.c",
+					"settings":
+					{
+						"buffer_size": 5459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5351,
+								5351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2550.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.462590731435,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"participante.h"
+			],
+			[
+				"memor",
+				"memoria.c"
+			],
+			[
+				"lab",
+				"lab03.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true
+}
