@@ -20,7 +20,7 @@ typedef struct {
 /* cria uma fila de prioridade de tamanho tam com função de comparação que
  * for definida no cliente*/
 FP * criar_filaprio(int tam, fcmp cmp);
-
+/* destroi a fila recebida*/
 void destroir_filaprio(FP* fprio);
 /* insere um item na fila de prioridades */
 void inserir(FP * fprio, Item item);

@@ -1,10 +1,10 @@
 #include "fila_prioridade.h"
 #include <stdio.h>
-
+/* estrutura de processos a serem realizados */
 typedef struct{
 	int id, n_clock, prioridade, dependencia;
 }Proc;
-
+/* estrutura dos nucleos do processador */
 typedef struct{
 	int id, processos_id, end_clock;
 }Nucleo;
@@ -31,12 +31,12 @@ int main (){
 	fila_processos_dependentes = criar_filaprio(n_processos, comparar_proc_depend);
 	fila_nucleo_parado = criar_filaprio(n_nucleos, comparar_nucleo_parado);
 	fila_nucleo_trabalhando = criar_filaprio(n_nucleos, comparar_nucleo_trabalhando);
-
+	/* incializa os nucleos*/
 	for (i = 0; i < n_nucleos; i++){
 		nucleo = criar_nucleo(i, 0, 0);
 		inserir(fila_nucleo_parado, nucleo);
 	}
-
+	/* le os processos*/
 	for (i = 0; i < n_processos; i++){
 		scanf("%d %d %d %d", &id, &n_clock, &prioridade, &dependencia);
 		proc = criar_processo(id, n_clock, prioridade, dependencia);
@@ -45,23 +45,30 @@ int main (){
 		else
 			inserir(fila_processos_dependentes, proc);
 	}
-
+	/* inicia o clock*/
 	clock_atual = 0;
+	/* faz enquanto houver processos a sereme executados */
 	while(!vazia(fila_processos) || !vazia(fila_processos_dependentes)){
+		/* executa processos enquanto houver processos que possam ser executados
+		e nucleos que possam executa-los*/
 		while(!vazia(fila_processos) && !vazia(fila_nucleo_parado)){
 			proc = extrair_maximo(fila_processos);
 			nucleo = extrair_maximo(fila_nucleo_parado);
+			/* nucleos começa a executar o processo*/
 			nucleo->processos_id = proc->id;
 			nucleo->end_clock = clock_atual  + proc->n_clock;
 			inserir(fila_nucleo_trabalhando, nucleo);
 			printf("processo %d iniciou no clock %d\n", proc->id, clock_atual);
 			free(proc);
 		}
+		/* nucleo termian de processar um processo*/
 		nucleo = extrair_maximo(fila_nucleo_trabalhando);
 		clock_atual = nucleo->end_clock;
 		printf("processo %d encerrou no clock %d\n", nucleo->processos_id, clock_atual);
+		/* caso haja processos depende desses processo altea as dependencias*/
 		fila_processos_dependentes = altera_dependencias(fila_processos, fila_processos_dependentes, nucleo->processos_id);
 		inserir(fila_nucleo_parado, nucleo);
+		/* ve se mais algum processos acabou no mesmo clock*/
 		while(!vazia(fila_nucleo_trabalhando) && nucleo->end_clock == clock_atual){
 			nucleo = extrair_maximo(fila_nucleo_trabalhando);
 			if (nucleo->end_clock == clock_atual){
@@ -73,6 +80,7 @@ int main (){
 				inserir(fila_nucleo_trabalhando, nucleo);
 		}
 	}
+	/* a fila de processos acabou, termina de excutar os que estão no nucleo*/
 	while(!vazia(fila_nucleo_trabalhando)){
 		nucleo = extrair_maximo(fila_nucleo_trabalhando);
 		clock_atual = nucleo->end_clock;
@@ -87,11 +95,13 @@ int main (){
 	destroir_filaprio(fila_processos_dependentes);	
 	return(0);
 }
-
+/* altera as dependencias de processos, após um após um processos ser executado*/
 FP * altera_dependencias(FP * fila_processos, FP * fila_processos_dependentes, int processo_terminado_id){
 		Proc * proc;
 		FP * fila_processos_dependentes_aux;
 		fila_processos_dependentes_aux = criar_filaprio(fila_processos_dependentes->tamanho, comparar_proc_depend);
+		/* ve todos os processos dependents, se a dependecia dele foi executa, o muda para
+		outra fila*/
 		while(!vazia(fila_processos_dependentes)){
 			proc = extrair_maximo(fila_processos_dependentes);
 			if(proc->dependencia == processo_terminado_id){
@@ -104,7 +114,6 @@ FP * altera_dependencias(FP * fila_processos, FP * fila_processos_dependentes, i
 		destroir_filaprio(fila_processos_dependentes);
 		return fila_processos_dependentes_aux;
 }
-
 
 Proc * criar_processo(int id, int n_clock, int prioridade, int dependencia){
 	Proc * proc = malloc(sizeof(Proc));
