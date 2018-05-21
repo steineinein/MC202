@@ -1,7 +1,6 @@
 #ifndef FILA_PRIORIDADE_H
 #define FILA_PRIORIDADE_H
 #include <stdlib.h>
-#endif
 
 typedef void* Item;
 
@@ -30,3 +29,4 @@ Item extrair_maximo(FP * fprio);
 int vazia (FP * fprio);
 /* retorna 1 se cheia e 0 se não */
 int cheia (FP * frpio);
+#endif
